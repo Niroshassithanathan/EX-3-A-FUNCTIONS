@@ -2,7 +2,27 @@
 ## AIM :
 write a program to prepare EMI calculation for 2000000 ,8.24,6Years using function with return type without arguments.
 ## ALGORITHAM :
-1.
+1.Start
+
+2.Define a function calculateEMI with a return type of double to calculate the EMI.
+
+3.Inside the calculateEMI function:
+
+a. Declare variables for principal amount, annual interest rate, loan tenure in years, monthly interest rate, tenure in months, and EMI.
+
+b. Calculate the monthly interest rate by dividing the annual interest rate by 12 and converting it to a decimal.
+
+c. Calculate the loan tenure in months.
+
+d. Use the EMI formula to compute the EMI, incorporating the principal, monthly interest rate, and loan tenure.
+
+e. Return the calculated EMI.
+
+4.In the main function:
+a. Call the calculateEMI function to obtain the EMI value and store it in a variable.
+b. Print the calculated EMI.
+
+5.End
 ## PROGRAM :
 ```
 #include<stdio.h>
