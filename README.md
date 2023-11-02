@@ -44,4 +44,5 @@ printf("Monthly EMI is= %.3f",emos);
 ![image](https://github.com/Niroshassithanathan/EX-3-A-FUNCTIONS/assets/121418437/f9c7c83c-c4e8-4beb-a5c3-26c499e4d517)
 
 ## RESULT :
-Thus , The C program has been executed
+Thus , The C program has been executed successfully.
+
